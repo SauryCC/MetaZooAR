@@ -27,7 +27,7 @@ Zebra
 
 
 ON AR PAGE:
-scan this image in front of your camera
+scan this dinosaur image in front of your camera, it will be used as the reference plane
 
 https://github.com/SauryCC/MetaZooAR/blob/test/MetaZooAR/trex-image-big.jpeg
 
