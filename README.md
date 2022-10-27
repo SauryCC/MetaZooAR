@@ -5,8 +5,10 @@ run the following:
 npm install
 npm start
 
-go to localhost:3000
-Scan the following QR code 
+go to 
+http://localhost:3000
+
+Scan the following animal QR code on the page, it will redirect to AR page
 
 
 Show this image in front of your camera to see AR animals
@@ -22,3 +24,11 @@ Falcon:
 Zebra
 
 ![Zebra](https://github.com/SauryCC/MetaZooAR/blob/test/MetaZooAR/QR/zebra.png)
+
+
+ON AR PAGE:
+scan this image in front of your camera
+
+https://github.com/SauryCC/MetaZooAR/blob/test/MetaZooAR/trex-image-big.jpeg
+
+![dino]([https://github.com/SauryCC/MetaZooAR/blob/test/MetaZooAR/QR/zebra.png](https://github.com/SauryCC/MetaZooAR/blob/test/MetaZooAR/trex-image-big.jpeg))
