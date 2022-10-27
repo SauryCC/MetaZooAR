@@ -31,4 +31,4 @@ scan this image in front of your camera
 
 https://github.com/SauryCC/MetaZooAR/blob/test/MetaZooAR/trex-image-big.jpeg
 
-![dino](https://github.com/SauryCC/MetaZooAR/blob/test/MetaZooAR/QR/zebra.png](https://github.com/SauryCC/MetaZooAR/blob/test/MetaZooAR/trex-image-big.jpeg)
+![dino](https://github.com/SauryCC/MetaZooAR/blob/test/MetaZooAR/trex-image-big.jpeg)
