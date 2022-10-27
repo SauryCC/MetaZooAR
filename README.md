@@ -10,3 +10,12 @@ Scan the following QR code
 
 
 Show this image in front of your camera to see AR animals
+
+Deer:
+![Deer](url "https://github.com/SauryCC/MetaZooAR/blob/test/MetaZooAR/QR/deer.png")
+
+Falcon:
+![Falcon](url "https://github.com/SauryCC/MetaZooAR/blob/test/MetaZooAR/QR/falcon.png")
+
+Zebra
+![Zebra](url "https://github.com/SauryCC/MetaZooAR/blob/test/MetaZooAR/QR/zebra.png")
