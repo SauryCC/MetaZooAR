@@ -1,0 +1,45 @@
+<script src="qrcodescaner.js"></script>
+<style>
+  .result{
+    background-color: green;
+    color:#fff;
+    padding:20px;
+  }
+  .row{
+    display:flex;
+  }
+</style>
+<div class="row">
+  <h1>Welcome to MetaZoo AR!</h1>
+</div>
+<div class="row">
+  <h2>Please scan your QR code</h2>
+</div>
+
+<div class="row">
+  <div class="col">
+    <div style="width:500px;" id="reader"></div>
+  </div>
+  <div class="col" style="padding:30px;">
+    <h4>SCAN RESULT</h4>
+    <div id="result">Result Here</div>
+  </div>
+</div>
+
+
+<script type="text/javascript">
+function onScanSuccess(qrCodeMessage) {
+  console.log(qrCodeMessage)
+  window.open(qrCodeMessage);
+    document.getElementById('result').innerHTML = '<span class="result">'+qrCodeMessage+'</span>';
+}
+
+function onScanError(errorMessage) {
+  //handle scan error
+}
+
+var html5QrcodeScanner = new Html5QrcodeScanner(
+    "reader", { fps: 10, qrbox: 250 });
+html5QrcodeScanner.render(onScanSuccess, onScanError);
+
+</script>
