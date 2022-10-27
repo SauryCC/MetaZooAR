@@ -1,4 +1,12 @@
-# async_project
-Async week project; This week I explored the Ar.js library!!
+For ELEC5620
+clone to local
+run the following:
 
-Youtube Link: https://youtu.be/zVL2NKLyXDY
+npm install
+npm start
+
+go to localhost:3000
+Scan the following QR code 
+
+
+Show this image in front of your camera to see AR animals
